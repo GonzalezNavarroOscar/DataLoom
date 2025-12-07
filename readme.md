@@ -35,7 +35,7 @@ A professional-grade data validation and processing tool with a C++ backend for 
 ```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/data-processor.git
-cd data-processor
+cd /the-place-you-clone-it
 
 # 2. Install Python dependencies
 pip install -r requirements.txt
