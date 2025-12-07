@@ -41,7 +41,7 @@ cd data-processor
 pip install -r requirements.txt
 
 # 3. Build the C++ processor
-make -C cpp_processor
+make
 
 # 4. Run the GUI
 python excel_processor_gui.py
